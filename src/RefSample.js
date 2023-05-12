@@ -8,7 +8,7 @@ const RefSample = () => {
   const printId = () => {
     console.log(id.current);
   };
-  return <div>refSample</div>;
+  return <div>refsample</div>;
 };
 
 export default RefSample;
